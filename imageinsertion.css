@@ -1,0 +1,48 @@
+body{
+    background-image: url(image.jpg);
+    background-position: center;
+    background-size: cover;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container .text{
+    position:absolute;
+    color: white;
+    right: 10px;
+    top:10px;
+}
+
+#CS{
+    position: absolute;
+    color: white;
+    right: 10px;
+    top: 10px;
+    text-align: center;
+}
+
+#ds{
+    position: absolute;
+    color: white;
+    left: 10px;
+    bottom: 10px;
+    text-align: center;
+}
+
+#wp{
+    position: absolute;
+    color: white;
+    right: 10px;
+    bottom: 10px;
+    text-align: center;
+}
+
+#AI{
+    position: absolute;
+    color: white;
+    left: 10px;
+    top: 10px;
+    text-align: center;
+}

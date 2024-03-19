@@ -1,0 +1,40 @@
+.container img{
+    height: 300px;
+    width: 800px;
+    position: relative;
+    left: 320px;
+    
+}
+.container{
+    height: 800px;
+    width: 1509px;
+    display: flex;
+    background-color: dodgerblue;
+    
+    align-items: center;
+}
+.container p{
+    color: red;
+    background-color: yellow;
+}
+#first{
+    
+    position: relative;
+    bottom: 130px;
+    right: 455px;
+}
+#second{
+    position: relative;
+    bottom: 130px;
+  right: 2px;
+}
+#third{
+    position: relative;
+    top: 120px;
+  right: 725px;
+}
+#fourth{
+    position: relative;
+    top: 120px;
+    right: 321px;
+}
